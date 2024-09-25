@@ -2,8 +2,7 @@
 
 ## Descrição
 
-Este projeto tem como objetivo o estudo de análises financeiras utilizando dados obtidos diretamente do Yahoo Finance. A ideia principal é explorar os dados financeiros por meio de gráficos interativos com o Plotly, além de trabalhar com manipulação de dados usando Pandas e Numpy.
-
+Human Activity Recognition (HAR) dataset é um conjunto de dados que foi criado a partir de gravações feitas com 30 voluntários realizando atividades diárias comuns, enquanto carregavam um smartphone montado na cintura. O smartphone usado possuía sensores inerciais embutidos, como acelerômetros e giroscópios, que são capazes de capturar dados sobre o movimento e a orientação do corpo.
 ## Dataset
 
 Os dados estão disponíveis para download em https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones.
